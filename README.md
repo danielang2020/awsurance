@@ -6,7 +6,7 @@ An insurance application based on AWS
 3. customer service domain
 4. claim service domain
 5. policy service domain
-6. product service domain
+6. product service(calculate) domain
 7. user/agent service domain
 8. arap service domain
 9. rule service domain
