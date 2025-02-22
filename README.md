@@ -2,7 +2,7 @@
 An insurance application based on AWS
 
 ## 1. new business service domain
-1.1 create a new policy
+1.1 create a new policy \
 1.2 because the fields of a policy will be added in the future, so will use dynamodb to store proposal information.
    
 ## 2. underwriting service domain
@@ -15,7 +15,7 @@ An insurance application based on AWS
 4.1 When a claim is requested, first, the latest policy information must be retrieved as evidence, and then reimbursement must be handled based on the evidence.
  
 ## 5. policy service domain
-5.1 store all policy information whose status is in force.
+5.1 store all policy information whose status is in force. \
 5.2 need to store policy change information and maintain policy versions.
    
 ## 7. product service(calculate) domain
@@ -34,5 +34,5 @@ An insurance application based on AWS
 10.1 the insurance company has different positions that only handle their biz.
 
 ## 11. analysis
-11.1 according to the biz data, some trends will be analyzed and some reports will also be generated.
+11.1 according to the biz data, some trends will be analyzed and some reports will also be generated. \
 11.2 column db will be used. such as redshift.
