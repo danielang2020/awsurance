@@ -31,7 +31,7 @@ An insurance application based on AWS
 9.1 some rules need to be set in advance, when a new policy or some other thing that needs to update policy, will be checked by it.
    
 ## 10. workflow service domain
-10.1 the insurance company has different positions that only handle their biz.
+10.1 the insurance company has different positions that only handle their biz, automatically assign task to right one.
 
 ## 11. analysis
 11.1 according to the biz data, some trends will be analyzed and some reports will also be generated. \
