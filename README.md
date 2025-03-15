@@ -48,3 +48,4 @@ spring-boot-data-source-decorator/flexy pool \
 Terraform \
 Spring Cloud Kubernetes Watcher for automatically reload configuration \
 rds with secret manager automatically rotation \
+HikariCP
