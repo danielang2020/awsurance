@@ -1,6 +1,15 @@
 # awsurance
 An insurance application based on AWS
 
+
+## 1. Product Facility
+1.1 product crud
+1.2 calculate according to product spec.
+
+
+
+
+
 ## 1. new business service domain
 1.1 create a new policy \
 1.2 because the fields of a policy will be added in the future, so will use dynamodb to store proposal information.
