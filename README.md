@@ -3,7 +3,7 @@ An insurance application based on AWS
 
 
 ## 1. Product Facility
-1.1 product crud \ 
+1.1 product crud \
 1.2 calculate according to product spec.
 
 
