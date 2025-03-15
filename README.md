@@ -38,12 +38,13 @@ An insurance application based on AWS
 11.2 column db will be used. such as redshift.
 
 
-eks + fargate, 
-cognito, 
-keda, 
-springboot/quarkus/grpc,
-opentelemetry ,
-telepresence  , 
-spring-boot-data-source-decorator/flexy pool, 
-Terraform
-Spring Cloud Kubernetes Watcher for automatically reload configuration
+eks + fargate \
+cognito \
+keda \
+springboot/quarkus/grpc \
+opentelemetry \
+telepresence  \ 
+spring-boot-data-source-decorator/flexy pool \
+Terraform \
+Spring Cloud Kubernetes Watcher for automatically reload configuration \
+rds with secret manager automatically rotation \
