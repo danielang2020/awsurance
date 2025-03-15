@@ -36,3 +36,14 @@ An insurance application based on AWS
 ## 11. analysis
 11.1 according to the biz data, some trends will be analyzed and some reports will also be generated. \
 11.2 column db will be used. such as redshift.
+
+
+eks + fargate, 
+cognito, 
+keda, 
+springboot/quarkus/grpc,
+opentelemetry ,
+telepresence  , 
+spring-boot-data-source-decorator/flexy pool, 
+Terraform
+Spring Cloud Kubernetes Watcher for automatically reload configuration
