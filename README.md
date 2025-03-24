@@ -38,7 +38,7 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 
 eks + fargate \
 cognito \
-keda \
+keda for pod, carpenter for node \
 springboot/quarkus/grpc \
 opentelemetry \
 telepresence  \ 
