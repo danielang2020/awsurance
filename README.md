@@ -47,4 +47,5 @@ Terraform \
 Spring Cloud Kubernetes Watcher for automatically reload configuration \
 rds with secret manager automatically rotation \
 HikariCP \
-Chaos Mesh 
+Chaos Mesh \
+R2DBC
