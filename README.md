@@ -2,7 +2,7 @@
 An insurance application based on AWS and K8s. want to experiment with cloud native.
 
 
-## 1. Product Facility Domain
+## 1. Product Facility Domain, including calculation
 1.1 product crud \
 1.2 provide product mandatory info and related formula and rate table.
 
