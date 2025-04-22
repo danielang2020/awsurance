@@ -25,17 +25,17 @@
         <mxCell id="31TnQ9_vqR_XaSeqyje7-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-6">
           <mxGeometry y="30" width="1519" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="31TnQ9_vqR_XaSeqyje7-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
+        <mxCell id="31TnQ9_vqR_XaSeqyje7-8" value="PK1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
           <mxGeometry width="117" height="40" as="geometry">
             <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31TnQ9_vqR_XaSeqyje7-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
+        <mxCell id="31TnQ9_vqR_XaSeqyje7-9" value="PK2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
           <mxGeometry x="117" width="116" height="40" as="geometry">
             <mxRectangle width="116" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31TnQ9_vqR_XaSeqyje7-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
+        <mxCell id="31TnQ9_vqR_XaSeqyje7-10" value="PK3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-7">
           <mxGeometry x="233" width="117" height="40" as="geometry">
             <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -98,12 +98,12 @@
             <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31TnQ9_vqR_XaSeqyje7-16" value="productCode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-14">
+        <mxCell id="31TnQ9_vqR_XaSeqyje7-16" value="productType" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-14">
           <mxGeometry x="117" width="116" height="40" as="geometry">
             <mxRectangle width="116" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31TnQ9_vqR_XaSeqyje7-17" value="productType" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-14">
+        <mxCell id="31TnQ9_vqR_XaSeqyje7-17" value="productCode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="31TnQ9_vqR_XaSeqyje7-14">
           <mxGeometry x="233" width="117" height="40" as="geometry">
             <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
