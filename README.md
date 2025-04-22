@@ -30,10 +30,10 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 11.2 column db will be used. such as redshift.
 
 
-eks + fargate \
+eks + spot instance/fargate \
 cognito \
 keda for pod, carpenter for node \
-springboot/quarkus/grpc \
+springboot/quarkus/grpc/fastapi \
 opentelemetry \
 telepresence  \ 
 spring-boot-data-source-decorator/flexy pool \
