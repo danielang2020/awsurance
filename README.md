@@ -44,4 +44,4 @@ HikariCP \
 Chaos Mesh \
 R2DBC
 AWS Batch + Step Functions + eks for workflow
-python + LaTeX(SymPy) + mathJax
+python + LaTeX(SymPy) + mathJax (sympy Piecewise could express if logic)
