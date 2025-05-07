@@ -42,7 +42,7 @@ Spring Cloud Kubernetes Watcher for automatically reload configuration \
 rds with secret manager automatically rotation \
 HikariCP \
 Chaos Mesh \
-R2DBC
-AWS Batch + Step Functions + eks for workflow
-python + LaTeX(SymPy) + mathJax (sympy Piecewise could express if logic)
-query product or policy info using graphql
+R2DBC \
+AWS Batch + Step Functions + eks for workflow \
+python + LaTeX(SymPy) + mathJax (sympy Piecewise could express if logic) \
+query product or policy info using graphql \
