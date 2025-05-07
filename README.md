@@ -4,7 +4,8 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 
 ## 1. Product Facility Domain, including calculation
 1.1 product crud \
-1.2 provide product mandatory info and related formula and rate table.
+1.2 provide product mandatory info and related formula and rate table. \
+1.3 product info should be version-controlled.
 
 ## 2. Policy Management Domain
 1.1 store inforce policy 
