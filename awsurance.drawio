@@ -789,7 +789,7 @@
             <mxRectangle width="350" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNze16hXhjAZTk7DHxWH-109" value="latest#AnnuityInstallment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-107">
+        <mxCell id="xNze16hXhjAZTk7DHxWH-109" value="latest#annuityInstallment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-107">
           <mxGeometry x="350" width="156" height="40" as="geometry">
             <mxRectangle width="156" height="40" as="alternateBounds" />
           </mxGeometry>
