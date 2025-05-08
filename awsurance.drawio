@@ -1021,7 +1021,7 @@
             <mxRectangle width="350" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNze16hXhjAZTk7DHxWH-181" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-179">
+        <mxCell id="xNze16hXhjAZTk7DHxWH-181" value="latest#bonus#cash" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-179">
           <mxGeometry x="350" width="156" height="40" as="geometry">
             <mxRectangle width="156" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1079,7 +1079,7 @@
             <mxRectangle width="350" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNze16hXhjAZTk7DHxWH-193" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-191">
+        <mxCell id="xNze16hXhjAZTk7DHxWH-193" value="latest#bonus#reversionary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xNze16hXhjAZTk7DHxWH-191">
           <mxGeometry x="350" width="156" height="40" as="geometry">
             <mxRectangle width="156" height="40" as="alternateBounds" />
           </mxGeometry>
