@@ -2,16 +2,18 @@
 An insurance application based on AWS and K8s. want to experiment with cloud native.
 
 
-## 1. Product Facility Domain, including calculation
+## 1. Elastic Product Facility Domain, including calculation
 1.1 product crud \
 1.2 provide product mandatory info and related formula and rate table. \
 1.3 product info should be version-controlled.
+1.4 elastic product management
 
 ## 2. Policy Management Domain
 1.1 store inforce policy 
 1.2 maintain policy model and make it cohesion
 1.3 calculate based on product info.
 1.4 store every version once update is done.(Copy and write)
+1.5 elastic policy management
 
 ## 3. Policy Workflow
 1.1 NB/UW/Claim workflow process
