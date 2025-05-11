@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="9jsTPR5OmD3sCtmGGbDw">
     <mxGraphModel dx="2035" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="230" y="110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="31TnQ9_vqR_XaSeqyje7-4" value="awsurance-policy-workflow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="410" width="195" height="55" as="geometry" />
+          <mxGeometry x="220" y="495" width="195" height="55" as="geometry" />
         </mxCell>
         <mxCell id="31TnQ9_vqR_XaSeqyje7-6" value="InsuranceProduct" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="830" y="70" width="1636" height="230" as="geometry" />
@@ -1476,6 +1476,9 @@
           <mxGeometry x="1596" width="138" height="40" as="geometry">
             <mxRectangle width="138" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XjRoBdL_sJDdxv0z33-J-1" value="awsurance-policy-arap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="195" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
