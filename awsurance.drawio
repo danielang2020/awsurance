@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="9jsTPR5OmD3sCtmGGbDw">
-    <mxGraphModel dx="2035" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1479,6 +1479,9 @@
         </mxCell>
         <mxCell id="XjRoBdL_sJDdxv0z33-J-1" value="awsurance-policy-arap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="390" width="195" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XjRoBdL_sJDdxv0z33-J-2" value="awsurance-party-management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="195" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
