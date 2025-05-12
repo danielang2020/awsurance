@@ -32,6 +32,8 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 11.1 according to the biz data, some trends will be analyzed and some reports will also be generated. \
 11.2 column db will be used. such as redshift.
 
+## 8. day end batch
+8.1 a job could be executed by batch trigger or real time trigger. 
 
 eks + spot instance/fargate \
 cognito \
