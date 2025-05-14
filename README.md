@@ -26,7 +26,8 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 8.1 receive premium, pay disbursement/death benefit, etc.
    
 ## 6. rule service domain(external)
-9.1 oauth2/saml
+9.1 oauth2/saml \
+9.2 activity(bonus)
 
 ## 7. analysis
 11.1 according to the biz data, some trends will be analyzed and some reports will also be generated. \
