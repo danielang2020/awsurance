@@ -14,6 +14,7 @@ An insurance application based on AWS and K8s. want to experiment with cloud nat
 1.3 calculate based on product info. \
 1.4 store every version once update is done.(Copy and write) \
 1.5 elastic policy management \
+1.6 seperate cud and r, coz when run day end batch, cud are not allowed.
 
 ## 3. Policy Workflow
 1.1 NB/UW/Claim workflow process \
