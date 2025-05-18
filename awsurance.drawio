@@ -1612,7 +1612,7 @@
           <mxGeometry x="-280" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-13" value="arap cud service&lt;div&gt;java quarkus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-14" value="AWS Step Functions&lt;div&gt;&lt;br&gt;&lt;div&gt;workflow/rule&lt;/div&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.step_functions;" vertex="1" parent="1">
           <mxGeometry x="340" y="385" width="80" height="140" as="geometry" />
@@ -1620,8 +1620,8 @@
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-15" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
           <mxGeometry x="-50" y="390" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-16" value="Amazon DynamoDB&lt;div&gt;OLTP&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="65" width="80" height="120" as="geometry" />
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-16" value="Amazon DynamoDB&lt;div&gt;OLTP&lt;/div&gt;&lt;div&gt;hot data(including 3 history records)&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="50" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-19" value="AWS Lambda&lt;div&gt;policy r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
           <mxGeometry x="-160" y="380" width="80" height="120" as="geometry" />
@@ -1632,8 +1632,8 @@
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-21" value="AWS Lambda&lt;div&gt;party r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
           <mxGeometry x="-160" y="510" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-22" value="Amazon RDS&lt;div&gt;postgrsql&lt;/div&gt;&lt;div&gt;OLAP&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
-          <mxGeometry x="190" y="70" width="80" height="120" as="geometry" />
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-22" value="Amazon RDS&lt;div&gt;postgrsql&lt;/div&gt;&lt;div&gt;OLAP&lt;/div&gt;&lt;div&gt;all data(hot and cold)&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="80" y="75" width="80" height="145" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-23" value="AWS Batch&lt;div&gt;day end&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.batch;" vertex="1" parent="1">
           <mxGeometry x="-450" y="400" width="80" height="110" as="geometry" />
@@ -1645,18 +1645,30 @@
           <mxGeometry x="-540" y="400" width="90" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-64" value="AWS Lambda&lt;div&gt;CDC&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="80" height="110" as="geometry" />
+          <mxGeometry x="-100" y="75" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="HYkqrEVgkmBIR6-sHHcv-16" target="HYkqrEVgkmBIR6-sHHcv-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="280" as="sourcePoint" />
-            <mxPoint x="-200" y="230" as="targetPoint" />
+            <mxPoint x="-360" y="285" as="sourcePoint" />
+            <mxPoint x="-310" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="120" as="sourcePoint" />
-            <mxPoint x="190" y="120" as="targetPoint" />
+            <mxPoint x="-20" y="125" as="sourcePoint" />
+            <mxPoint x="80" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-67" value="AWS Lambda&lt;div&gt;arap&amp;nbsp; r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-68" value="Amazon S3&lt;div&gt;Archive&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
