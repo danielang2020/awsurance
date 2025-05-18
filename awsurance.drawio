@@ -1525,6 +1525,9 @@
         <mxCell id="HYkqrEVgkmBIR6-sHHcv-24" value="common service&lt;div&gt;java quarkus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HYkqrEVgkmBIR6-sHHcv-27" value="AWS Lambda&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;dayend&amp;nbsp; r service&lt;/span&gt;&lt;div&gt;python&lt;/div&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="400" width="90" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
