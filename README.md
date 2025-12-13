@@ -55,3 +55,6 @@ python + LaTeX(SymPy) + mathJax (sympy Piecewise could express if logic) \
 query product or policy info using graphql \
 
 k8s: crossplane, argocd, opentelemetry(prometheus/grafana)
+
+## 9. Use AI as frontend.
+utlize Claude as mcp client to connect spring boot as mcp server to do biz.
