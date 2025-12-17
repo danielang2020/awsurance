@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="9jsTPR5OmD3sCtmGGbDw">
-    <mxGraphModel dx="2993" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3260" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1588,89 +1588,6 @@
             <mxRectangle height="40" width="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="calculation&lt;div&gt;python&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-200" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-5" edge="1" parent="1" source="HYkqrEVgkmBIR6-sHHcv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="HYkqrEVgkmBIR6-sHHcv-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-25" edge="1" parent="1" source="HYkqrEVgkmBIR6-sHHcv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="HYkqrEVgkmBIR6-sHHcv-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-26" connectable="0" parent="HYkqrEVgkmBIR6-sHHcv-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="grpc" vertex="1">
-          <mxGeometry relative="1" x="-0.7778" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="policy cud service&lt;div&gt;java spring&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="product r service&lt;div&gt;java quarkus&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="party cud service&lt;div&gt;java quarkus&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="arap cud service&lt;div&gt;java quarkus&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-14" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.step_functions;" value="AWS Step Functions&lt;div&gt;&lt;br&gt;&lt;div&gt;workflow/rule&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="80" x="340" y="385" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" value="Amazon EKS" vertex="1">
-          <mxGeometry height="100" width="80" x="-50" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-16" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" value="Amazon DynamoDB&lt;div&gt;OLTP&lt;/div&gt;&lt;div&gt;hot data(latest version)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="110" x="-310" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-19" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;policy r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="80" x="-160" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-20" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;product&amp;nbsp; r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="90" x="170" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-21" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;party r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="80" x="-160" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-22" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" value="Amazon RDS&lt;div&gt;postgrsql&lt;/div&gt;&lt;div&gt;OLAP&lt;/div&gt;&lt;div&gt;hot data(including 5 history records)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="80" x="80" y="75" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-23" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.batch;" value="AWS Batch&lt;div&gt;day end&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="80" x="-450" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="common service&lt;div&gt;java quarkus&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-350" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-27" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;dayend&amp;nbsp; r service&lt;/span&gt;&lt;div&gt;python&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="90" x="-540" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-64" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;CDC&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="80" x="-100" y="75" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-65" edge="1" parent="1" source="HYkqrEVgkmBIR6-sHHcv-16" style="endArrow=classic;html=1;rounded=0;" target="HYkqrEVgkmBIR6-sHHcv-64" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-360" y="285" as="sourcePoint" />
-            <mxPoint x="-310" y="235" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-66" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-20" y="125" as="sourcePoint" />
-            <mxPoint x="80" y="125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-67" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" value="AWS Lambda&lt;div&gt;arap&amp;nbsp; r service&lt;/div&gt;&lt;div&gt;python&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="90" x="170" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-68" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" value="Amazon S3&lt;div&gt;Archive&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="80" x="260" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HYkqrEVgkmBIR6-sHHcv-69" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="160" y="120" as="sourcePoint" />
-            <mxPoint x="260" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1DqKyOJ0pX9me3LKBiU4-3" edge="1" parent="1" source="1DqKyOJ0pX9me3LKBiU4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1DqKyOJ0pX9me3LKBiU4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1969,6 +1886,9 @@
             <mxPoint x="-300" y="-950" as="sourcePoint" />
             <mxPoint x="40" y="-770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1DqKyOJ0pX9me3LKBiU4-76" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" value="Amazon EKS" vertex="1">
+          <mxGeometry height="100" width="80" x="-580" y="-510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
