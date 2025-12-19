@@ -1670,7 +1670,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1DqKyOJ0pX9me3LKBiU4-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Policy UW Service&lt;div&gt;(Non-Inforce /In force Policy)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-910" y="-520" as="geometry" />
+          <mxGeometry height="60" width="120" x="-909" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="1DqKyOJ0pX9me3LKBiU4-29" edge="1" parent="1" source="1DqKyOJ0pX9me3LKBiU4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="1DqKyOJ0pX9me3LKBiU4-9">
           <mxGeometry relative="1" as="geometry">
@@ -1776,7 +1776,7 @@
             <mxPoint x="-850" y="-380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1DqKyOJ0pX9me3LKBiU4-55" edge="1" parent="1" source="1DqKyOJ0pX9me3LKBiU4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DqKyOJ0pX9me3LKBiU4-7">
+        <mxCell id="1DqKyOJ0pX9me3LKBiU4-55" edge="1" parent="1" source="1DqKyOJ0pX9me3LKBiU4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="_2JhUDruzCJ8RXxnhksQ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-620" y="10" as="sourcePoint" />
             <mxPoint x="-541" y="-340" as="targetPoint" />
@@ -1849,6 +1849,12 @@
           <mxGeometry relative="1" x="-0.5847" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_2JhUDruzCJ8RXxnhksQ-2" edge="1" parent="1" source="_2JhUDruzCJ8RXxnhksQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="1DqKyOJ0pX9me3LKBiU4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2JhUDruzCJ8RXxnhksQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Product / Policy Customer Change Workflow Service" vertex="1">
+          <mxGeometry height="60" width="120" x="-670" y="-370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
