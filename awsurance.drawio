@@ -1624,7 +1624,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1DqKyOJ0pX9me3LKBiU4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Policy Change Service&lt;div&gt;(Inforce Policy)&lt;/div&gt;" vertex="1">
+        <mxCell id="1DqKyOJ0pX9me3LKBiU4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Product / Policy Customer Change Service" vertex="1">
           <mxGeometry height="60" width="120" x="-670" y="-640" as="geometry" />
         </mxCell>
         <mxCell id="1DqKyOJ0pX9me3LKBiU4-9" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.appsync;" value="AWS AppSync&lt;div&gt;GraphQL&lt;/div&gt;" vertex="1">
