@@ -1,7 +1,7 @@
 # awsurance
 An insurance application based on AWS and K8s. want to experiment with cloud native.
 
-EKS + ACK + AutoMode + ArgoCD
+EKS + ACK / KRO + AutoMode + ArgoCD
 
 ## 1. Elastic Product Facility Domain, including calculation
 1.1 product crud \
